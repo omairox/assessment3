@@ -1,0 +1,75 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: 'Bruno Ace SC', cursive;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+	text-align: center;
+
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+	margin-bottom: 5px;
+	
+}
+
+img {
+	max-width: 150px;
+}
+
+.catpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	text-align: center;
+
+}
+
+.pew { 
+	text-align: center;
+}
+
+button {
+	background-color: yellow;
+	margin: 10px; 
+	padding: 15px;
+	border-radius: 10px;
+	cursor: pointer;
+	font-family: 'Bruno Ace SC', cursive;
+}
+
+button:hover {	
+	background-color: white;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.blah {
+	font-family: 'Bruno Ace SC', cursive;
+}
